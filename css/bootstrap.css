@@ -1213,6 +1213,7 @@ p {
   margin: 0 0 12px; }
 
 .lead {
+  letter-spacing: normal;
   margin-bottom: 24px;
   font-size: 18px;
   font-weight: 300;
