@@ -1027,7 +1027,7 @@ p {
     padding: 0 0 0 10px; }
 
   .visual {
-    min-height: 100px; }
+    min-height: 400px; }
     .visual > .container {
       font-size: 1.6rem;
       line-height: 1.5; }
@@ -1056,10 +1056,10 @@ p {
     margin: -61px 0 0; }
     #cta .btn {
       margin: 0 0 12px;
-      height: 42px;
+      height: 21px;
       font-size: 1.4rem;
       line-height: 20px;
-      padding: 10px 30px;
+      padding: 5px 15px;
       min-width: 0; }
 
   .text-box {
