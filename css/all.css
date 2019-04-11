@@ -168,17 +168,17 @@ p {
   transform: rotate(-45deg); }
 
 .visual {
-  min-height: 404px;
+  min-height: 604px;
   position: relative;
   overflow: hidden;
   text-align: center;
   color: #8d81ac;
   font-size: 0;
   letter-spacing: -4px;
-  padding: 54px 0 0;
+  padding: 44px 0 0;
   background: #000; }
   .visual h1 {
-    margin: 0 0 10px;
+    margin: 0 0 5px;
     font-size: 8.2rem;
     line-height: 1.12;
     font-weight: bold;
@@ -430,7 +430,7 @@ p {
   .visual-container .visual-area {
     position: relative;
     overflow: hidden;
-    padding: 90px 0 70px;
+    padding: 40px 0 30px;
     font-size: 1.4rem;
     line-height: 1.5;
     color: #fff; }
@@ -444,7 +444,7 @@ p {
       top: 0;
       left: 0; }
   .visual-container .visual-area + .visual-area {
-    padding: 70px 0; }
+    padding: 30px 0; }
     .visual-container .visual-area + .visual-area:after {
       content: "";
       position: absolute;
@@ -454,7 +454,7 @@ p {
       height: 1px;
       background: rgba(102, 74, 102, 0.6); }
   .visual-container h2 {
-    margin: 0 0 70px;
+    margin: 0 0 30px;
     font-size: 4.8rem;
     line-height: 1.166666;
     font-weight: bold;
@@ -831,13 +831,13 @@ p {
 
   .visual {
     padding: 0;
-    min-height: 760px; }
+    min-height: 660px; }
     .visual .text-block {
-      padding: 70px 0; }
+      padding: 40px 0; }
     .visual:before {
       display: none; }
     .visual .bg-stretch {
-      bottom: -60px; }
+      bottom: -30px; }
 
   .area {
     padding: 40px 0 47px; }
