@@ -168,54 +168,27 @@ p {
   transform: rotate(-45deg); }
 
 .visual {
-  min-height: 904px;
+  min-height: 404px;
   position: relative;
   overflow: hidden;
   text-align: center;
   color: #8d81ac;
   font-size: 0;
   letter-spacing: -4px;
-  padding: 104px 0 0;
+  padding: 54px 0 0;
   background: #000; }
-  .visual .bg-stretch {
-    position: absolute;
-    bottom: 0;
-    left: 50%;
-    -webkit-transform: translateX(-50%);
-    -ms-transform: translateX(-50%);
-    transform: translateX(-50%); }
-  .visual > .container {
-    display: inline-block;
-    vertical-align: top;
-    position: relative;
-    z-index: 1;
-    font-size: 2.4rem;
-    line-height: 1.5;
-    letter-spacing: 0; }
   .visual h1 {
     margin: 0 0 10px;
     font-size: 8.2rem;
     line-height: 1.12;
     font-weight: bold;
     color: #e3dfed; }
-  .visual p {
-    margin: 0 0 8px; }
-    .visual p.tagline {
-      line-height: 1.1;
-      font-size: 2.6rem; }
-  .visual .info {
-    display: block;
-    font-size: 1.6rem;
-    line-height: 1.5;
-    color: #494654;
-    text-transform: uppercase; }
-  .visual .text-block {
-    padding: 90px 0; }
+
 
 #cta {
   position: relative;
   z-index: 1;
-  margin: -80px 0 55px;
+  margin: -80px 0 0px;
   text-align: center;
   color: #848e97;
   font-size: 1.4rem;
