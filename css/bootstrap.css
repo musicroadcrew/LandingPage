@@ -1214,7 +1214,8 @@ p {
 
 .lead {
   letter-spacing: normal;
-  margin-bottom: 24px;
+  margin-top: 20px;
+  margin-bottom: 20px;
   font-size: 18px;
   font-weight: 300;
   line-height: 1.4; }
