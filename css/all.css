@@ -1225,5 +1225,10 @@ p {
         /* margin-bottom: calc(50% - 80vw); */
     }
 }
+@media screen and (min-width: 1600px) {
+  .visual {
+    min-height: 950px
+  }
+}
 
 /*# sourceMappingURL=all.css.map */
